@@ -1,0 +1,8 @@
+Origin:The Best iOS 6 Repo
+Label: Chowdhaj's Repo
+Suite: Experimental
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: I host all my favorite iOS 6 tweaks here. Best part is, they work!
